@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning data analytics in big data.
 - 💞️ I’m looking to collaborate on data science projects.
 - 📫 How to reach me --My email address is krishna.varipilli@gmail.com
+- My linked in profile --- https://www.linkedin.com/in/krishna-varipilli-16b3479/
 
 <!---
 K2VARIPI/K2VARIPI is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
